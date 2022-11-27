@@ -43,6 +43,7 @@ img{
 }
 *{
     box-sizing: border-box;
+    font-family: League Spartan;
 }
 body{
     margin: 0;
